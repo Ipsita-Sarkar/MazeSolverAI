@@ -3,9 +3,7 @@ A GUI based maze solving project.
 Dijkstra's Algorithm is used to find the shortest path.
 Language used is Python.
 Tkinter Library is used for creating user interface.
-The project contains 3 code files and 1 executable file.
-
-MazeSolver.exe: It is the executable file. Click on this file to see the output.
+The project contains 3 code files.
 
 app.py: It connects the frontend and backend. It contains the code for user interface.Run this file to see the output.
 
