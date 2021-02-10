@@ -10,6 +10,7 @@ Steps to use the program:
 3. Click on the "Select Obstacles" button and then select as many obstacles you like.
 4. Click on the "Show Path" button to see the result i.e. shortest path from source to destination.
 5. Click on the "RESTART" button to refresh the screen.
+
 A GUI based maze solving project.
 Dijkstra's Algorithm is used to find the shortest path.
 Language used is Python.
