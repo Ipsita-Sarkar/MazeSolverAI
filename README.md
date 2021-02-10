@@ -1,4 +1,5 @@
 # MazeSolverAI
+Download the MazeSolver_Demo.mp4 file to see a video of the code output.
 Steps to open the project and the output screen/ user interface:
 1. Download the project.
 2. Open with any editor like Vscode, Atom etc or with Python IDE like PyCharm, Anaconda etc.
