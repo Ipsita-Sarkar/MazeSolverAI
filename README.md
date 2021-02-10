@@ -1,4 +1,8 @@
 # MazeSolverAI
+Steps to open the project and the output screen/ user interface:
+1. Download the project.
+2. Open with any editor like Vscode, Atom etc or with Python IDE like PyCharm, Anaconda etc.
+3. Run the app.py file to see the User Interface.
 A GUI based maze solving project.
 Dijkstra's Algorithm is used to find the shortest path.
 Language used is Python.
